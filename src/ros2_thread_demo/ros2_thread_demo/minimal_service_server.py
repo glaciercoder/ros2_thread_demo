@@ -1,5 +1,7 @@
 from example_interfaces.srv import AddTwoInts
 
+from example_interfaces.srv import AddTwoInts
+
 import rclpy
 from rclpy.node import Node
 
